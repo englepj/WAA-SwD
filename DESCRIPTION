@@ -1,0 +1,10 @@
+Package: WAA
+Type: Package
+Title: Creates District Level WAA File
+Version: 1.0
+Date: 2013-07-08
+Author: Par Jason Engle
+Maintainer: Par Jason Engle <Par.Engle@dpi.wi.gov>
+Description: This queries the LDS and returns the number of students enrolled for each district, the number proficient or advanced in each district, and accompanying information
+License: General
+Depends: R (>= 2.15.1), data.table, RODBC
